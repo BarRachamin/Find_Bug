@@ -1,0 +1,4 @@
+﻿  FIND BUG.c
+C:\Users\User\source\repos\FIND BUG\FIND BUG\FIND BUG.c(90,20): warning C4101: 'ch': unreferenced local variable
+C:\Users\User\source\repos\FIND BUG\FIND BUG\FIND BUG.c(20): warning C4716: 'Bug_1': must return a value
+  FIND BUG.vcxproj -> C:\Users\User\source\repos\FIND BUG\x64\Debug\FIND BUG.exe
